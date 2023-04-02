@@ -49,9 +49,9 @@ public class Dice_game {
         	R2++;
         }
         
-        //N of perfects
+        //N of 6 6
         if(R1==face && R2==face){
-        	System.out.println("                          perfect");
+        	System.out.println("                          perfect score");
         	NP++;
         }
         
