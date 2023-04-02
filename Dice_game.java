@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 import javax.swing.JFrame;
 
-public class Anisdices {
+public class Dice_game {
 	
 	static int R1;
 	static int R2;
