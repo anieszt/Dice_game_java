@@ -1,3 +1,3 @@
-# graphic dices in java with Jframe
+# graphic dices in java
 
 use 6 faces for the first roll to be displayed.
